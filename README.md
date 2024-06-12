@@ -3,6 +3,7 @@ Introduction:The Nana Aishat E-Shoe Product Store is an innovative online platfo
 Deployed Site: https://shadrachkadah.github.io/Our_Landing-page/
 final project blog article: https://www.linkedin.com/pulse/portfolio-project-blog-post-shadrach-audu-fv3uf/
 author(s) LinkedIn: www.linkedin.com/in/shadrach-audu-917341195
+
 Authors:
   Shadrach Audu Kadah
   Onyekachi Acha
